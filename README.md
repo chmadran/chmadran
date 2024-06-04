@@ -11,9 +11,6 @@
      - Advanced Learning Algorithms
      - Unsupervised Learning, Recommenders, Reinforcement Learning (Ongoing)
 
-## 🤖 Artificial Intelligence projects completed:
-     - [ WIP ]
-
 ## 💻 Tech Stack:
 
 <p align="center">
