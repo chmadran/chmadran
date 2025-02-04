@@ -1,8 +1,7 @@
 ## Hello 👋
 
-- I’m @chmadran, a data scientist in a research & development lab
-- 🔭 I'm also currently studying at 42 Paris 
-- 📫 How to reach me: charlotte.madrangeas@gmail.com
+- You can check out my projects here : https://www.chmadran.com/
+- How to reach me: charlotte.madrangeas@gmail.com
 
 ## 💻 Tech Stack:
 
