@@ -1,7 +1,6 @@
 ## Hello 👋
 
-- You can check out my projects here : https://www.chmadran.com/
-- How to reach me: charlotte.madrangeas@gmail.com
+How to reach me: charlotte.madrangeas@gmail.com
 
 ## 💻 Tech Stack:
 
